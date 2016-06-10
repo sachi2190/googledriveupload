@@ -1,0 +1,22 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <suite name="Suite1" verbose="1"  >
+
+ <test name="SamplePage Test" >
+   <classes>
+   <class name="LoginTestNGTest" >
+        <methods>
+            <include name = "aTest"/>
+        </methods>
+    </class>
+</classes>
+ </test>
+   <test name="newSamplePage Test" >
+    <classes>
+   <class name="FileUploadTestNGTest" >
+        <methods>
+            <include name = "main"/>
+        </methods>
+        </class>
+    </classes>
+   </test> 
+ </suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Solanki" tests="5" failures="0" timestamp="9 Jun 2016 12:27:13 GMT" time="0.016" errors="0">
+  <testcase name="main" time="0.0" classname="FileUploadTestNGTest">
+    <skipped/>
+  </testcase>
+  <testcase name="aTest" time="0.0" classname="LoginTestNGTest"/>
+  <testcase name="cleanUp" time="0.0" classname="LoginTestNGTest"/>
+  <testcase name="testMethodOne" time="0.0" classname="LoginTestNGTest"/>
+  <testcase name="testMethodTwo" time="0.0" classname="LoginTestNGTest"/>
+</testsuite>
